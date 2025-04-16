@@ -1,4 +1,0 @@
-mysql> CREATE DATABASE Datademo;
-Query OK, 1 row affected (0.02 sec)
-
-mysql> tee "E:\JDBC\src\main\java\AssignmentOne.txt"
