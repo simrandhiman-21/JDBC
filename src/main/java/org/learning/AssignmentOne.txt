@@ -214,4 +214,4 @@ mysql> SELECT e.gender, SUM(p.net_pay), AVG(p.net_pay), MIN(p.net_pay), MAX(p.ne
     -> GROUP BY e.gender;
 Empty set (0.01 sec)
 
-mysql> Terminal close -- exit!
+mysql> Terminal close -- exit!!
